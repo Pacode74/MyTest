@@ -1,9 +1,0 @@
-pipelines:
-  branches:
-    lesson-1:
-      - step:
-          name: Just a simple echo!
-          script:
-            - echo "Hello world"
-
-          
