@@ -35,3 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       
+      # Runs a simple echo
+      - name: Run a simple echo!
+        run: echo Hello Daniel!
+      
